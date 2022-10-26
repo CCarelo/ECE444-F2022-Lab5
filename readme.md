@@ -1,6 +1,7 @@
 # ECE444-F2022-Lab5
 
-Cecilio Carelo
+Saeed Khan, Cecilio Carelo
+
 This repo is a clone of ECE444-F2022-Lab5
 
 Activity 1
