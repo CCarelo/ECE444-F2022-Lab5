@@ -15,8 +15,7 @@ Home Page
 
 Results Page – Form
 
-![image](https://user-images.githubusercontent.com/48865140/198134379-69c42ce6-dc3e-4d41-9d39-7788036357ac.png)
-
+![image](https://user-images.githubusercontent.com/48865140/198136601-1ec195dd-e4e4-490d-82ff-6c166c62e0f6.png)
 
 Results Page - Results Table
 
